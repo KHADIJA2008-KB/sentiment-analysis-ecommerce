@@ -34,12 +34,12 @@ python main.py
 
 2.Follow the on-screen instructions to input data or process existing files.
 
-Contributing:
+- Contributing:
 
-- Feel free to fork this repository and submit pull requests. 
+Feel free to fork this repository and submit pull requests. 
 
-- Please ensure your code follows the project's coding standards.
+Please ensure your code follows the project's coding standards.
 
-License:
+- License:
 
-- This project is licensed under the MIT License - see the LICENSE file for details.
+  This project is licensed under the MIT License - see the LICENSE file for details.
