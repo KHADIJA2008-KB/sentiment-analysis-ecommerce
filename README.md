@@ -3,7 +3,8 @@
 - Overview:
   
 This project focuses on performing sentiment analysis on e-commerce data to determine customer opinions and feedback. It aims to help businesses understand customer sentiments towards products or services.
-Features
+
+- Features:
 
 1.Analyzes text data from customer reviews.
 
